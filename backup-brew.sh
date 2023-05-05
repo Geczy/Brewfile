@@ -13,4 +13,3 @@ yarn global list --depth 0 2>/dev/null | awk '{print $2}' | sed '/"/d' | sed '1d
 git add .
 git commit -m "Backup Brewfile $(date "+%Y-%m-%d %H:%M:%S")"
 git push origin master
-osascript -e 'display notification "Finish backing up  Brewfile" with title "Brewfile"'

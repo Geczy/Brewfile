@@ -9,7 +9,7 @@
       <string>$HOME/Documents/github/Brewfile/backup-brew.sh</string>
     </array>
     <key>UserName</key>
-    <string>matt</string>
+    <string>$USER</string>
     <key>StartCalendarInterval</key>
     <dict>
       <key>Hour</key>

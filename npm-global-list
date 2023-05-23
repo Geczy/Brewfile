@@ -2,5 +2,7 @@ corepack
 js-deobfuscator
 npm-run-all
 npm
+opencommit
+serve
 shift-codegen
 webcrack

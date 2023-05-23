@@ -3,6 +3,7 @@ i18next
 install-peerdeps
 jsnice
 npm-check
+serve
 ts-node
 ts-node-cwd
 ts-node-esm
